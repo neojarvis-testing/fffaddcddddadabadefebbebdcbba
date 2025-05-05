@@ -3,3 +3,5 @@ public class DR {
 }
 save code
 sc1
+
+run project
